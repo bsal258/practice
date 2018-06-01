@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#this is a script written on 2018 june first 
+
+aajakomiti=$"date" 
+echo -e "$aajakomiti ho aaja. Subhadin"
+
+exit 0
+
+
+
+
